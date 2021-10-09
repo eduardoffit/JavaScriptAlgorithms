@@ -1,1 +1,3 @@
 # JavaScriptAlgorithms
+
+- Array Map
